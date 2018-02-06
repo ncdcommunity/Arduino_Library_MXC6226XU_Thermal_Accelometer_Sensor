@@ -44,6 +44,6 @@ The MXC6226XU has a number of settings, which can be configured based on user re
 
             mxc.setUpAccelerometer();
              
-3.Output measurement:The following command is used to measure the output of MMC2460MT sensor.             
+3.Output measurement:The following command is used to measure the output of MXC6226XU sensor.             
              
             mxc.Measure_Accelerometer();
